@@ -1,0 +1,11 @@
+# Carpetas de compilación
+[Bb]in/
+[Oo]bj/
+
+# Archivos de usuario y caché de Visual Studio
+*.user
+*.suo
+*.pdb
+
+# Carpetas de paquetes NuGet (ya no son tan comunes, pero son seguras de ignorar)
+**/packages/
